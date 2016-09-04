@@ -9,11 +9,11 @@ gem install circular_list
 
 Either:
 
-ruby martian_rover.rb <input text>
+ruby martian_rover.rb input_text
 
 or
 
-ruby martian_rover.rb < <input file>
+ruby martian_rover.rb < input_file.txt
 
 ## Notes:
 
