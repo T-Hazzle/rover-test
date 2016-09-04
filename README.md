@@ -18,6 +18,8 @@ ruby martian_rover.rb < input_file.txt
 ## Notes:
 
 Most of the core logic is in class robot.rb
+
 Lacks validation, but is fairly robust to nasty input due to regexs etc
+
 doesn't account for robot collisions
 
